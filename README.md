@@ -13,6 +13,8 @@ During my summer break, instead of just scrolling through social media, I decide
 * **Power Setup:** Battery (+) -> Switch -> NodeMCU `VIN` (using the internal voltage regulator to step down the battery voltage safely).
 * **Ground:** Battery (-) -> NodeMCU `GND`.
 
+* THIS DEVICE HAS 1 TO 2 METERS RANGE AS OF NOW. USING MORE POWERFULL COMPONENTS CAN HELP IN INCREASING ITS RANGE!
+
 ## 💻 Tech Stack & Reverse Engineering
 * **Language:** C++ (Arduino IDE)
 * **The Hardest Part:** Reverse-engineering the massive **439-bit raw IR data** of the Panasonic AC remote. I captured the raw pulses using an IR receiver first, then mapped them to the sending protocol.
