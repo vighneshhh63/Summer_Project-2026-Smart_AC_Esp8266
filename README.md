@@ -2,10 +2,6 @@
 
 During my summer break, instead of just scrolling through social media, I decided to build something practical. I converted my old, non-smart Panasonic AC into a voice-controlled Smart AC using a NodeMCU (ESP8266), an IR Transmitter, and Sinric Pro connected with Amazon Alexa.
 
-## 🚀 The "Summer Vacation" Story
-The summer heat was real, but so was my laziness to find the AC remote! 😅 
-I took it as a challenge to use my CS skills and some spare electronics lying around to build a custom solution. 
-
 ## 🛠️ Hardware Stack ( Sustainable)
 * **NodeMCU (ESP8266)** - The brain of the project (with built-in Wi-Fi).
 * **IR Transmitter (940nm LED)** - To mimic the physical remote's signals.
